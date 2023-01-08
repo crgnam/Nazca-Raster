@@ -1,5 +1,5 @@
-# Nazca Raster
-A simple (currently CPU based) rasterizer.
+# Quipu Geometry Virtualization
+A Geometry Virtualization system
 
 Because this project makes use of submodules for some of its dependencies, it is recommended that you clone using:
 ```
