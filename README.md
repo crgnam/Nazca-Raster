@@ -3,7 +3,7 @@ A Geometry Virtualization system
 
 Because this project makes use of submodules for some of its dependencies, it is recommended that you clone using:
 ```
-git clone --recurse-submodules -j8 git@github.com:crgnam/Nazca-Raster.git
+git clone --recurse-submodules -j8 git@github.com:crgnam/Quipu.git
 ```
 
 # Quick Setup (Bash Sehll Script)
