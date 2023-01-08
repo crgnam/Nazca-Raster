@@ -1,0 +1,18 @@
+[submodule "external/tinyobjloader"]
+	path = external/tinyobjloader
+	url = git@github.com:tinyobjloader/tinyobjloader.git
+[submodule "external/oneTBB"]
+	path = external/oneTBB
+	url = git@github.com:oneapi-src/oneTBB.git
+	ignore = dirty
+[submodule "external/lodepng"]
+	path = external/lodepng
+	url = git@github.com:lvandeve/lodepng.git
+[submodule "external/GKlib"]
+	path = external/GKlib
+	url = git@github.com:KarypisLab/GKlib.git
+	ignore = dirty
+[submodule "external/METIS"]
+	path = external/METIS
+	url = git@github.com:KarypisLab/METIS.git
+	ignore = dirty
